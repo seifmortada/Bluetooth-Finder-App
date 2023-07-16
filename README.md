@@ -5,6 +5,8 @@ After we get the X Y values we send them to the ESP32 Which is the base beacon t
 After that we get the values and draw them on a map on the Desktop Application. There are screens of the app
 ![image](https://github.com/seifmortada/Bluetooth-Finder-App/assets/76921289/50e20a0a-6423-4930-8618-faf42f67a08b)
 ![image](https://github.com/seifmortada/Bluetooth-Finder-App/assets/76921289/d19cb693-b5b7-4f22-b837-a7d593c395cb)
+![image](https://github.com/seifmortada/Bluetooth-Finder-App/assets/76921289/7a459e07-da6a-40d7-887b-68df21750918)
+
 
 
 
